@@ -1,0 +1,14 @@
+header{
+background-color: crimson;
+color: white;
+border:2px black dashed;
+font-size: 2em;
+}
+.buttons{
+color:blue;
+}
+.pictureofcheese{
+    resize: both;
+    left: 10px;
+    right: 10px;
+}
